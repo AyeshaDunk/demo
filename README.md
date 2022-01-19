@@ -4,12 +4,12 @@ The Turing’s vision to support skills and capacity building in data science ed
 led under the Tools, Practices and Systems Programme and the Skills Programme. This builds on the ‘Train the Trainer’ framework for training potential instructors and domain
 experts.  
 
-The Data Science and AI Educator’s programme is being developed with the following aims: 
+ ## Aims
 - To embed Data Science and AI training across a range of disciplines. 
 - To overcome barriers to Data Science and AI training practices by empowering domain experts to become educators.  
 - To stimulate the development of open and inclusive learning materials and curricula. 
 
-To apply for this programme, you will need to meet the following criteria:
+## Applicants
 - [] You have a keen interest in the teaching of data science and AI
 - [] You have a interest in pedagogy
 - [] You are an 'educator' 
