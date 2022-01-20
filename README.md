@@ -10,8 +10,8 @@ experts.
 - To stimulate the development of open and inclusive learning materials and curricula. 
 
 ## Applicants
-- [] You have a keen interest in the teaching of data science and AI
-- [] You have a interest in pedagogy
-- [] You are an 'educator' 
+- [ ] You have a keen interest in the teaching of data science and AI
+- [ ] You have a interest in pedagogy
+- [ ] You are an 'educator' 
 
 This project is part of the [Turing Institute](https://github.com/orgs/alan-turing-institute/).
